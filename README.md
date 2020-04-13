@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="" title="#delicinha" src="assets/logo.svg" width="200px" />
+    <img alt="" title="#delicinha" src="assets/logo.png" width="200px" />
 </h1>
 
 <h4 align="center">
