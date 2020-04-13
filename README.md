@@ -1,7 +1,6 @@
-# SemanaOmnistack11_Frontend
-Projeto ONG Be The Hero utilizando react
+
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src="assets/bethehero.svg" width="200px" />
+    <img alt="" title="#delicinha" src="assets/bethehero.svg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -23,10 +22,8 @@ Projeto ONG Be The Hero utilizando react
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+
 
 ## 💻 Projeto
 
