@@ -1,7 +1,7 @@
 # SemanaOmnistack11_Frontend
 Projeto ONG Be The Hero utilizando react
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+    <img alt="DevRadar" title="#delicinha" src="assets/bethehero.svg" width="200px" />
 </h1>
 
 <h4 align="center">
