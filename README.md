@@ -1,10 +1,10 @@
 
 <h1 align="center">
-    <img alt="" title="#delicinha" src="assets/logo.png" width="200px" />
+    <img alt="" title="#delicinha" src="assets/icon.png" width="200px" />
 </h1>
 
 <h4 align="center">
-  🚀 Semana OmniStack 11.0
+  Semana OmniStack 11.0
 </h4>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+  <img alt="BeTheHero" src=".assets/logo.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologia:
 - [React](https://reactjs.org)
 
 
-## 💻 Projeto
+## Projeto
 
 O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
 
