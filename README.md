@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="" title="#delicinha" src="assets/bethehero.svg" width="200px" />
+    <img alt="" title="#delicinha" src="assets/logo.svg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -20,8 +20,9 @@
 
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologia:
 
+- [Nodejs](https://nodejs.org)
 - [React](https://reactjs.org)
 
 
